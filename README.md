@@ -12,7 +12,7 @@ The program shall:
 5.Ask the user for the desired frame number(which is equal to the number of loops we’ve ran through)6.Calculate the number of pixels the object will have fallen by the time we reachthe given frame number.
 HINT:  Use the FPS and number of frames to find how many seconds the object has been falling.
 
-Have the students use the web to seek out the correct formula.  If they cannot, then the correct equation is:Distance = 1/2 * gravity * time2
+Have the students use the web to seek out the correct formula.  If they cannot, then the correct equation is:Distance = 1/2 * gravity * time**2
 
 
 Guide:
