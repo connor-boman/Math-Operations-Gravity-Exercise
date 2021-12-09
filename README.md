@@ -21,7 +21,7 @@ print("This program calculates the distance a suspended object falls","given a g
 # Convert string to int
 # Get fps from user
 # Convert string to int
-# Get number of frames from user
+# Get Total number of frames from user
 # Convert string to int
 # Calculate time object is falling
 # Calculate distance in pixels objecthas fallen
